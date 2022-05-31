@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tubesPAM</string>
+    <string name="title">title</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="search">search</string>
+    <string name="fotografer">fotografer</string>
+    <string name="id_fotografer">id_fotografer</string>
+
+</resources>
