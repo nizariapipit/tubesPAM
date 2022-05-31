@@ -24,9 +24,12 @@ aplikasi akan menampilkan list berupa gambar dan nama gambar yang sesuai dengan 
     implementation 'com.google.code.gson:gson:2.8.9'
     implementation 'com.loopj.android:android-async-http:1.4.11'
     
-## Cara Running
+## Cara Running Program 1
 1. pertama import file ke Android Studio.
 2. kemudian project harus dibagun terlebih dahulu dengan menekan tombol "build gradle".
 3. buka handphone android, aktifkan mode developer.
 4. kemudian izinkan install apk via USB.
 5. jika proses telah selesai, aplikasi dapat dijalankan dengan menekan tombol "run app" pada Android Studio 
+
+## Cara Running Program 2
+1. install apk menggunakan gawai android.
